@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "profile": "archive-or-hybrid",
+  "upgrade": "additive-splus-baseline",
+  "changed_files": [
+    "ARC-AGI/SECURITY.md",
+    "ARC-AGI/CONTRIBUTING.md",
+    "ARC-AGI/LICENSE-STATUS.md",
+    "ARC-AGI/DEPENDENCY-STATUS.md",
+    "ARC-AGI/SPLUS.md",
+    "docs/PROVENANCE.md",
+    "scripts/splus_check.py",
+    ".gitignore",
+    "ARC-AGI/README.md",
+    "workflows/splus-hygiene.yml",
+    "CI-STATUS.md"
+  ],
+  "source_deletion": false,
+  "source_overwrite": false,
+  "ci_status": "workflow-not-published-due-to-github-permission",
+  "generated_workflow_removed_before_publish": true
+}

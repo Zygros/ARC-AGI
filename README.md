@@ -66,3 +66,11 @@ When your output grid is ready, click the green "Submit!" button to check your a
 After you've obtained the correct answer for the current test input grid, you can switch to the next test input grid for the task using the "Next test input" button (if there is any available; most tasks only have one test input).
 
 When you're done with a task, use the "load task" button to open a new task.
+
+## S+ readiness
+
+This repository is maintained under an additive, provenance-preserving quality rubric. See `SPLUS.md`, `SECURITY.md`, `LICENSE-STATUS.md`, and `docs/PROVENANCE.md` for boundaries and validation guidance. This status does not claim production correctness, legal clearance, or security certification.
+
+## Install and usage
+
+This repository may contain executable components, examples, benchmarks, or archived material. Use the native dependency manifest and project-specific instructions for the active component. For a non-runtime archive, inspect the documented provenance and evidence boundaries before treating files as executable.
