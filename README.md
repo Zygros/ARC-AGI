@@ -1,3 +1,5 @@
+> **Federation index:** [FEDERATION_INDEX.md](https://github.com/Zygros/conzet-sovereign-intelligence/blob/main/FEDERATION_INDEX.md)
+
 # Abstraction and Reasoning Corpus for Artificial General Intelligence v1 (ARC-AGI-1)
 
 This repository contains the ARC-AGI-1 task data, as well as a browser-based interface for humans to try their hand at solving the tasks manually.
